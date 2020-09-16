@@ -2,6 +2,6 @@ Detailed instructions on how to get this running!
 
 sudo pip3 install twilio
 
-Created and used twilio.env
+Created and used twilio.env (twilio.com/console)
 
 TODO use environment variables in lieu of the hardcoded phone numbers.
